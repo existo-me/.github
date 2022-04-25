@@ -1,7 +1,7 @@
 ![Existo.me banner](https://raw.githubusercontent.com/existo-me/.github/main/assets/profile-banner.jpg)
 
 
-# :scream:&nbsp; :fearful:&nbsp; The Global Rise of the Far Right
+# :fearful:&nbsp; The Global Rise Of The Far Right &nbsp;:angry:
 
 <p align="justify">...</p>
 
@@ -9,6 +9,7 @@
 
 <p align="justify">...</p>
 <br />
+
 
 # <img src="https://raw.githubusercontent.com/existo-me/.github/main/assets/plane-icon.png" height="22px">&nbsp;  The Political Spectrum Plane
 
